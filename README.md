@@ -12,12 +12,12 @@
 
 - Tópicos básicos PARTE 1
   - [Contextualização](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/01.%20Introdu%C3%A7%C3%A3o)
-  - [Tipos](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/tipos)
-  - [var / let / const](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/var-let-const)
-  - [Strings](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/strings)
-  - [Operadores](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/operadores)
-  - [Estruturas de controle](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/estruturas-de-controle)
-  - [Introdução aos arrays](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/arrays)
+  - [Tipos](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/02.%20T%C3%B3picos%20b%C3%A1sicos%20PARTE%201/tipos)
+  - [var / let / const](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/02.%20T%C3%B3picos%20b%C3%A1sicos%20PARTE%201/var-let-const)
+  - [Strings](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/02.%20T%C3%B3picos%20b%C3%A1sicos%20PARTE%201/strings)
+  - [Operadores](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/02.%20T%C3%B3picos%20b%C3%A1sicos%20PARTE%201/operadores)
+  - [Estruturas de controle](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/02.%20T%C3%B3picos%20b%C3%A1sicos%20PARTE%201/estruturas-de-controle)
+  - [Introdução aos arrays](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/02.%20T%C3%B3picos%20b%C3%A1sicos%20PARTE%201/arrays)
 - Tópicos básicos PARTE 2
   - [JSON](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/json)
   - [Funções / notação arrow function](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/funcoes)
