@@ -11,7 +11,7 @@
 #### Tópicos
 
 - Tópicos básicos PARTE 1
-  - [Contextualização](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/contextualizacao)
+  - [Contextualização](https://github.com/williamsartijose/CursoNivelamentoJavaScript/tree/main/01.%20Introdu%C3%A7%C3%A3o)
   - [Tipos](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/tipos)
   - [var / let / const](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/var-let-const)
   - [Strings](https://github.com/devsuperior/curso-nivelamento-javascript/tree/main/topicos-js/strings)
